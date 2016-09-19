@@ -23,3 +23,5 @@ This event should bring in money for the hackspace through -
 This event should also bring the space new visitors and publicity, as we will be looking to notify local news organisations about the event, and encourage some smaller organisations participation in the evening event. 
 
 Cleanup will be made easier by the use of plastic sheeting taped to tables, and spread on the floor. For more messy work (such as use of a dremel) a plastic sheet covered booth will be provided to minimise 'splatter'.
+
+Signups will be online, with the ability to pay for the hackspace to organise a pumpkin for the entrants. Hotdog numbers, and other numbers will be taken off that data, with a margin for walk-in entrants.
