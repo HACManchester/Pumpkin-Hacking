@@ -1,4 +1,4 @@
-=Rules=
+#Rules
 
 1. All carving must be done at the time of the event, in the designated space.
 2. Entry fee is per pumpkin entered - entry of more than one per person is encouraged
@@ -13,11 +13,11 @@
 7. Family enterants must include at least one child within their group, up to the age of 16.
 8. Pumpkins will be videoed for judging, and photographed, and a short statement about the pumpkin can be made via video or a short written piece if desired. Judging will then take place at the end of the crafting period, however enterants are free to take their pumpkins home once they have been recorded.
 
-==Points==
+##Points
 
 Point scoring will be separate for the single hackspace level and the national level judging, to allow for clear scoring on both an individual hackspace level and a national level (so we don't get the equivalent of three 9.9 scores in the national judging). Point scoring will also be similarly separate at Family and L33T HAX0R levels of the competition.
 
-===Points for:===
+###Points for:
 * Carving techniques - 0-10 points
 	Pumpkin carving is full of different techniques, from basic knife carving to layered shading of the light coming from the pumpkin, surface detail, or even entirely deconstructing the pumpkin and creating something entirely new from its flesh - such as an entire skeleton in carved bones from a series of pumpkins. This score will be based on the contestants and their pumpkins in the space, so the full range of 0-10 can be used.
 
@@ -36,13 +36,13 @@ Point scoring will be separate for the single hackspace level and the national l
 * Best use of your pumpkin - 0-10 points
 	Pumpkins come in all shapes and sizes - taking inspiration from your gourd and figuring out how best to use it, rather than making a plan and then applying it to any pumpkin, is a skill in its self. Look into your pumpkin, become one with your pumpkin. Then carve its flesh.
 
-==Prizes==
+##Prizes
 
-===Main Prizes=== 
+###Main Prizes 
 
 There will be a first prize, and a runner up - these will hopefully be sponsored prizes.
 
-===Special Prizes===
+###Special Prizes
 
 Special prizes are categories that *may* be given out, and are not categories to explicitly aim for in the main.
 
