@@ -48,11 +48,18 @@ Special prizes are categories that *may* be given out, and are not categories to
 
 Special prizes for:
 Most crazy
+
 	Kinda up to the judges on the day, don't you think?
+	
 Biggest failure
+
 	This cannot have been in any way intentional. As long as it may have been possible in the time frame, the tools and equipment was available, and a reasonable effort was made, a total failure may not be a total loss. But it must be an impressive failure in some way.
+	
 Ambition
+
 	Even if the project fell short, or missed its goal, a good shot into orbit is deserving of commendation even if it missed the moon. 
+	
 Most scary
+
 	It's fear Jim, but not as we know it! Crazy pumpkins, pumpkins that strike fear into the hearts of teachers everywhere, or even into parents! This can be anything from conventional horror to somthing all together different.
 
