@@ -1,16 +1,23 @@
 #Rules
 
 1. All carving must be done at the time of the event, in the designated space.
-2. Entry fee is per pumpkin entered - entry of more than one per person is encouraged
+
+2. Entry fee is per pumpkin entered - entry of more than one pumpkin is allowed, as is multiple people working on a single pumpkin as a team
+
 3. Power tools are free to be used, as long as:
     * the use is safe 
     * the user is trained
     * the tools are cleaned correctly afterwards by the user.
     * the use is approved by a volunteer
+
 4. Please minimise mess as much as possible, and use designated messy areas if you decide to go full 'Dexter' on the pumpkin. Flinging pumpkin at the ceiling with intent is reason for ejection from the competition and the space.
+
 5. Feel free to add to the pumpkin and bring materials to do so, from electronics to fabrics and more.
+
 6. A pumpkin made during the family period can be entered into the L33T HAX0R competition, but not vice-versa, and not both.
+
 7. Family enterants must include at least one child within their group, up to the age of 16.
+
 8. Pumpkins will be videoed for judging, and photographed, and a short statement about the pumpkin can be made via video or a short written piece if desired. Judging will then take place at the end of the crafting period, however enterants are free to take their pumpkins home once they have been recorded.
 
 ##Points
@@ -31,7 +38,7 @@ Point scoring will be separate for the single hackspace level and the national l
 	
 	Pumpkins come in all shapes and sizes - taking inspiration from your gourd and figuring out how best to use it, rather than making a plan and then applying it to any pumpkin, is a skill in its self. Look into your pumpkin, become one with your pumpkin. Then carve its flesh.
 
-* Innovation - 0-5 points
+* Wow Factor - 0-5 points
 	
 	Is your pumpkin sporting a radical new carving method? Maybe the addition of a technique, material, or something else entirely makes your pumpkin stand out from the crowd? This is where YOU can score points!
 	
