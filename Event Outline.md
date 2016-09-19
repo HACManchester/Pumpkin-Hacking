@@ -1,6 +1,6 @@
 #Pumpkin Hacking
 
-The event will be an all-day event, split into two sections, a family aimed event in the afternoon, and a more adult orientated event in the evening.
+The event will be an all-day event, split into two sections, a family aimed event in the afternoon, and a more adult oriented event in the evening.
 
 The idea will be to 'hack' pumpkins in both a figurative and literal sense, encouraging artistic endeavours as well as technical skill and innovation. We will be providing tools and equipment to work on the pumpkins, as well as hopefully pumpkins for those who pre-book.
 
