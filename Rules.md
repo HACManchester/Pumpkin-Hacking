@@ -3,10 +3,10 @@
 1. All carving must be done at the time of the event, in the designated space.
 2. Entry fee is per pumpkin entered - entry of more than one per person is encouraged
 3. Power tools are free to be used, as long as:
-	..* the use is safe 
-	..* the user is trained
-	..* the tools are cleaned correctly afterwards by the user.
-	..* the use is approved by a volunteer
+    * the use is safe 
+    * the user is trained
+    * the tools are cleaned correctly afterwards by the user.
+    * the use is approved by a volunteer
 4. Please minimise mess as much as possible, and use designated messy areas if you decide to go full 'Dexter' on the pumpkin. Flinging pumpkin at the ceiling with intent is reason for ejection from the competition and the space.
 5. Feel free to add to the pumpkin and bring materials to do so, from electronics to fabrics and more.
 6. A pumpkin made during the family period can be entered into the L33T HAX0R competition, but not vice-versa, and not both.
