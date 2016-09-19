@@ -4,7 +4,7 @@ All costings are based on *buying equipment* that we don't have, and the budget 
 
 ##Splatter Control
 
-* Buckets - £1.50 each, x2 - £3.50
+* Buckets - £1.50 each, x2 - £3.00
 * HARRIS TASKMASTERS POLYTHENE DUST SHEET ROLL 50M X 2M - £7
 
 ##Extra tools
@@ -24,7 +24,7 @@ These will likely be used again in the space, so they aren't purely for the even
 
 ##Disposeables
 
-* Cocktail sticks
+* Cocktail sticks £1.50
 * Kabab skewers
 
 ##Pumpkin Lighting
@@ -35,4 +35,4 @@ For those who aren't using their own lighting system, we will have some donated 
 
 * Can of six 'luxury' hotdogs - £1
 * Six hotdog buns - £0.75
-* 
+* 9 vegitarian hotdogs (frozen, Tesco) £1.50
