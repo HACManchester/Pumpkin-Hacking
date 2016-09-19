@@ -18,23 +18,31 @@
 Point scoring will be separate for the single hackspace level and the national level judging, to allow for clear scoring on both an individual hackspace level and a national level (so we don't get the equivalent of three 9.9 scores in the national judging). Point scoring will also be similarly separate at Family and L33T HAX0R levels of the competition.
 
 ###Points for:
-* Carving techniques - 0-10 points
-	Pumpkin carving is full of different techniques, from basic knife carving to layered shading of the light coming from the pumpkin, surface detail, or even entirely deconstructing the pumpkin and creating something entirely new from its flesh - such as an entire skeleton in carved bones from a series of pumpkins. This score will be based on the contestants and their pumpkins in the space, so the full range of 0-10 can be used.
 
-* Innovation - 0-10 points
+* Carving techniques - 0-10 points
+
+	Pumpkin carving is full of different techniques, from basic knife carving to layered shading of the light coming from the pumpkin, surface detail, or even entirely deconstructing the pumpkin and creating something entirely new from its flesh - such as an entire skeleton in carved bones from a series of pumpkins. This score will be based on the contestants and their pumpkins in the space, so the full range of 0-10 can be used.
+	
+* Artistic skill - 0-10 points
+
+	This is an area for a true pumpkin artisan, a carver of talent and dedication to the art-form. One who can create shade and light, balance, and *movement* in the piece!
+
+* Best use of your pumpkin - 0-10 points
+	
+	Pumpkins come in all shapes and sizes - taking inspiration from your gourd and figuring out how best to use it, rather than making a plan and then applying it to any pumpkin, is a skill in its self. Look into your pumpkin, become one with your pumpkin. Then carve its flesh.
+
+* Innovation - 0-5 points
+	
 	Is your pumpkin sporting a radical new carving method? Maybe the addition of a technique, material, or something else entirely makes your pumpkin stand out from the crowd? This is where YOU can score points!
 	
 * Tech integration - 0-5 points
+	
 	Pumpkins with flashing lights, or that float above terrified Trick or Treaters? That's the kind of fright we're into.
 	
 * Scare Factor - 0-5 points
-	It's Halloween, right?
 	
-* Artistic skill - 0-10 points
-	Just cutting a basic face in and sticking in some blinking lights... No, this is an area for a true pumpkin artisan, a carver of talent and dedication to the art-form. One who can create shade and light, balance, and *movement* in the piece!
+	It's Halloween, right?
 
-* Best use of your pumpkin - 0-10 points
-	Pumpkins come in all shapes and sizes - taking inspiration from your gourd and figuring out how best to use it, rather than making a plan and then applying it to any pumpkin, is a skill in its self. Look into your pumpkin, become one with your pumpkin. Then carve its flesh.
 
 ##Prizes
 
