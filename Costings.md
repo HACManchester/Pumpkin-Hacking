@@ -31,8 +31,3 @@ These will likely be used again in the space, so they aren't purely for the even
 
 For those who aren't using their own lighting system, we will have some donated lights for judging. If wanted, we may be able to provide tealights for people to take home with their pumpkins for a small fee.
 
-##Hotdogs
-
-* Can of six 'luxury' hotdogs - £1
-* Six hotdog buns - £0.75
-* 9 vegitarian hotdogs (frozen, Tesco) £1.50
