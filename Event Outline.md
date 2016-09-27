@@ -7,7 +7,6 @@ The idea will be to 'hack' pumpkins in both a figurative and literal sense, enco
 We also hope to provide the following:
 
 * Snacks and drinks via snackspace
-* Hotdogs
 * BUGS! kits
 * A selection of Scrapstore bits in exchange for donations to the Scrapstore (donation jar)
 * Guidance, encouragement, and an area to let imagination go wild
@@ -15,7 +14,6 @@ We also hope to provide the following:
 
 This event should bring in money for the hackspace through - 
 
-* Hotdog sales
 * Snacks and drinks sales
 * Sale of BUGS! kits
 * Entry fee per pumpkin entered (collected on entry, and per extra pumpkin entered)
