@@ -61,7 +61,24 @@ There will be a first prize, and a runner up - these will hopefully be sponsored
 
 Special prizes are categories that *may* be given out, and are not categories to explicitly aim for in the main.
 
-Special prizes for:
+Special Prizes in the family category for:
+
+**Most Enthusiastic Carver**
+
+Not just for people who actually carve their pumpkins, but also for those who decorate it in any way! 
+
+**Messiest Participant**
+
+This can't be aimed for, but there will be a prize of sorts for the messiest participant... Are you sure you want to find out what that prize is?
+
+**Best Looking Pumpkin**
+
+A prize for the princess of the ball! This prize goes to the best looking pumpkin in town!
+
+
+
+
+Special prizes in the adult category for:
 
 **Most crazy**
 
